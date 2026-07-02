@@ -1,11 +1,12 @@
 # NavFlow
 # Type de projet:
-Projet de recherche
+Projet du club
 
 # Team Lead:
 Ça pourrait être vous!
 
 # Équipe:
+Effectir recherchéÈ 5 membres
 
 # Compétences travaillées:
 

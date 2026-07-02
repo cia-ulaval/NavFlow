@@ -6,7 +6,7 @@ Projet du club
 Ça pourrait être vous!
 
 # Équipe:
-Effectir recherchéÈ 5 membres
+Effectif recherché: 5 membres
 
 # Compétences travaillées:
 
